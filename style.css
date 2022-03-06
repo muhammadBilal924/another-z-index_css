@@ -1,0 +1,7 @@
+img{
+    position: fixed;
+    left: 5%;
+    top: 3px;
+    z-index: -1;
+
+}
